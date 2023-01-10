@@ -13,3 +13,11 @@ background:white;
     font-family:cambria;
     font-size:18px;
     }
+    .dv{
+        height: 120px;
+        width: 50%;
+        border: blue;
+        border-style: dashed;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
