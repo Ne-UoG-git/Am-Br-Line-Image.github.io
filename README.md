@@ -1,5 +1,5 @@
 # Am-Br-line-image.github.io
-##This is detail about the dataset used to train the proposed algorithm. 
+## This is detail about the dataset used to train the proposed algorithm. 
 ![image](https://github.com/user-attachments/assets/90825f47-293e-431b-99f2-208eb82e1352)
 
 ## Authors: Nega Agmas Asfaw and Birhanu Hailu Belay
